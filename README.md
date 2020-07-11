@@ -2,7 +2,7 @@
 ## Diabetes Predictor
 > Predict Diabetes using Machine Learning.
 
-In this project, our objective is to predict whether the patient has diabetes or not based on various features like *Glucose level, Insulin, Age, BMI*. We will perform all the steps from *Data gathering to Model deployment.* During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Flask which is a python micro framework.
+In this project, our objective is to predict whether the patient has diabetes or not based on various features like *Glucose level, Insulin, Age, BMI*. We will perform all the steps from *Data gathering to Model deployment.* During Model evaluation, we compare various machine learning algorithms on the basis of accuracy_score metric and find the best one. Then we create a web app using Streamlit which is a python based framework for datascience.
 
 
 # Installation
@@ -10,6 +10,7 @@ In this project, our objective is to predict whether the patient has diabetes or
 - Clone this repository and unzip it.
 
 - After downloading, go to the app directory.
+- You will find a .pickle file that is the trained model
 
 - Begin a new virtual environment with Python 3 and activate it.
 
